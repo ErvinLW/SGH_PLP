@@ -1,5 +1,5 @@
 # SGH Practical Language Processing Project (Nov 2022)
-An NUS-ISS text analytics project for Singapore General Hospital (SGH) Corporate Communications.
+An NUS-ISS text analytics project for Singapore General Hospital (SGH) Corporate Communications.<br>
 The project team comprised of:
 1. Debbie Soon Ka Hui
 2. Chua Tse Lert
