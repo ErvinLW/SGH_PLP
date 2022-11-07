@@ -1,5 +1,5 @@
 # SGH Practical Language Processing Project (Nov 2022)
-An NUS-ISS text analytics project for Singapore General Hospital (SGH) Corporate Communications.<br>
+An NUS-ISS text analytics project for the Singapore General Hospital (SGH) Corporate Communications team focusing on media monitoring.<br>
 The project team comprised of:
 1. Debbie Soon Ka Hui
 2. Chua Tse Lert
@@ -7,9 +7,10 @@ The project team comprised of:
 4. Boo Kai Xiang
 5. Ervin Liu Wenyao
 
-##  Project Outline
+##  Project Components
 *   Business understanding
-*   Data collection and pre-processing
-*   EDA
-*   Model Development
-*   Evaluation
+*   Datasets (Data)
+*   Data pre-processing, EDA and Model Development (Codebooks)
+
+### Business Understanding
+The goal of the project was to enable SGH corp comms to efficiently monitor its visibility on mainstream news media and public perception of its services and core values in action. In addition, the corp comms team frequently receives similar queries on publicity, design and event guidelines and requires a more efficient way to link users to answers available on the intranet but with which users may not be familiar or willing to navigate.
