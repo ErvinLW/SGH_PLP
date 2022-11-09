@@ -21,8 +21,7 @@ To address the above needs, the team proposed and developed the following soluti
 		- SGH Finetuned T5 Model (https://streamlit-t5-demo-wlmk2nwf7a-el.a.run.app)
     - Finetuned BART - refer to "BART-Large Multi-News" and "BART-Large_SGH" videos under *Deployment Videos*
 		- SGH100+ BART-Large-CNN Model (https://huggingface.co/debbiesoon/bart_large_summarise)
-		- Multi-News1000 BART-Large-CNN Model (https://huggingface.co/debbiesoon/
-bart_large_summarise_v3)
+		- Multi-News1000 BART-Large-CNN Model (https://huggingface.co/debbiesoon/bart_large_summarise_v3)
     - Finetuned Longformer Encoder-Decoder (LED) - refer to "LED SGH" and "LED Multi-News" videos under *Deployment Videos*
 		- SGH100+ LED Model (https://huggingface.co/debbiesoon/summarise_v10)
 		- Multi-News1000 LED Model (https://huggingface.co/debbiesoon/summarise_v9)
